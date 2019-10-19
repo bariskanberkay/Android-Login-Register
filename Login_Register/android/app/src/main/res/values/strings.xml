@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LoginRegister App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="please_enter_email">Please Enter Email</string>
+    <string name="please_enter_password">Please Enter Password</string>
+    <string name="please_enter_phone">Please enter phone no</string>
+    <string name="please_enter_name">Please enter name</string>
+
+
+    <string name="internet_connection">Internet connection not available</string>
+    <string name="internet_connection_message">Internet connection not available check your internet connection</string>
+</resources>
